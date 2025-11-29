@@ -23,5 +23,10 @@
     "ogDescription": "See your wallet address and sign a message to prove ownership.",
     "ogImageUrl": "https://hello.infinica.xyz/splash.png",
     "castShareUrl": "https://hello.infinica.xyz/compose?text=hello+world"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE0OTY1NTcsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhGMmFFZEE1ODM3ZDY1ZjA2NjhFMGY4YjJDRDUwOGEwNzlGZWUwNDAzIn0",
+    "payload": "eyJkb21haW4iOiJoZWxsby5pbmZpbmljYS54eXoifQ",
+    "signature": "+NegVTFh945B1matNAATDcwrhC8tkKwX8Hsc0XaMafYEu33vXu+Tx86Ui0lIaD8R/GQUMS6GBkRkAPkA/oMs+hs="
   }
 }
